@@ -1,0 +1,22 @@
+{
+  "name": "k-words",
+  "version": "1.0.0",
+  "description": "Keywords generation in ML-inspired way",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxqfd555/k-words.git"
+  },
+  "keywords": [
+    "keywords detection"
+  ],
+  "author": "Sergey Kulik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxqfd555/k-words/issues"
+  },
+  "homepage": "https://github.com/zxqfd555/k-words#readme"
+}
